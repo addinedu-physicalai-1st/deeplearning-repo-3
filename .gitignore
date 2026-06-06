@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Superpowers brainstorming/design artifacts (local only, not committed)
+docs/superpowers/
+
+# Local planning / study notes (plan folder and all subfolders — not committed)
+plan/
